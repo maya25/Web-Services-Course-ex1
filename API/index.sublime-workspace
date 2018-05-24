@@ -1,0 +1,217 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"p",
+				"product"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Maya1/Desktop/dcs_deploy2/index.js",
+		"/C/Users/Maya1/Desktop/ex1.rar",
+		"/C/Users/Maya1/Downloads/ex1.rar",
+		"/C/Users/Maya1/Desktop/deploy_2/index.js",
+		"/C/Users/Maya1/Desktop/dcs_deploy2/package.json",
+		"/C/Users/Maya1/Desktop/exp6/public/exe4.js",
+		"/C/Users/Maya1/Desktop/ex0homeNew/mainVote.js",
+		"/C/Users/Maya1/Desktop/ex0homeNew/package.json",
+		"/C/Users/Maya1/Desktop/ex0homeNew/index.js",
+		"/C/Users/Maya1/Desktop/ex0homeNew/config.js",
+		"/C/Users/Maya1/Desktop/MYnew.zip",
+		"/C/Users/Maya1/Desktop/index.js",
+		"/C/Users/Maya1/Desktop/mainVote.js",
+		"/C/Users/Maya1/Desktop/config.js",
+		"/C/Users/Maya1/Desktop/exp6/exe4.js",
+		"/C/Users/Maya1/Desktop/exp6/public/style.css",
+		"/C/Users/Maya1/Desktop/exp6/index.js",
+		"/C/Users/Maya1/Desktop/שנה ג/סמסטר ב/שירותי מארג האינטרנט/node_class1/npm/index.js",
+		"/C/Users/Maya1/Desktop/שנה ג/סמסטר ב/שירותי מארג האינטרנט/MyNewServer.js",
+		"/C/Users/Maya1/Desktop/שנה ג/סמסטר ב/שירותי מארג האינטרנט/0/index.js",
+		"/C/Users/Maya1/Desktop/שנה ג/סמסטר ב/שירותי מארג האינטרנט/npm/index.js",
+		"/C/Users/Maya1/Desktop/mdl.js",
+		"/C/Users/Maya1/Desktop/שנה ג/סמסטר ב/שירותי מארג האינטרנט/node1.js",
+		"/C/Users/Maya1/Desktop/שנה ג/סמסטר ב/שירותי מארג האינטרנט/node_class1/npm/package.json",
+		"/C/Users/Maya1/Desktop/שנה ג/סמסטר ב/שירותי מארג האינטרנט/node_class1/npm/index1.js",
+		"/C/Users/Maya1/Desktop/שנה ג/סמסטר ב/שירותי מארג האינטרנט/node_class1/npm/index2.js",
+		"/C/Users/Maya1/Desktop/שנה ג/סמסטר ב/שירותי מארג האינטרנט/0/mdl.js",
+		"/C/xampp/htdocs/ex1/targil2.php",
+		"/C/xampp/htdocs/ex1/targil1new.php",
+		"/C/xampp/htdocs/targil1.php",
+		"/C/xampp/htdocs/ex1/index.php",
+		"/C/xampp/htdocs/service_calculator/myCalc.php",
+		"/C/xampp/htdocs/client_app/index.html",
+		"/C/Users/Maya1/Desktop/שנה ג/סמסטר ב/שירותי מארג האינטרנט/MY.zip",
+		"/C/Users/Maya1/Desktop/MY(1).zip",
+		"/C/Users/Maya1/Desktop/שנה ג/סמסטר ב/שירותי מארג האינטרנט/subdog תרגיל1 (1).zip",
+		"/C/xampp/htdocs/service_calculator/calculator.php",
+		"/C/xampp/htdocs/client app/index.html",
+		"/C/xampp/htdocs/ex1/targil3.php",
+		"/C/Users/Maya1/Desktop/node2.js",
+		"/C/xampp/htdocs/service_calculator/Calc.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

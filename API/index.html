@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>api profiles</title>
+    
+  </head>
+  <body>
+      <div class="wrapper">
+          <h1>EX1 - Profiles - API</h1>
+        <article>
+          <h1>Get All Profiles</h1>
+          <ul>
+            <li>relativePath: /getAllProfiles</li>
+            <li>verb: GET</li>
+            <li>url: <a href='https://ex1-dcs.herokuapp.com/getAllProfiles' target='_blank'>https://ex1-dcs.herokuapp.com/getAllProfiles</a></li>
+                  
+            <li>RESPOND:<br>
+             [
+{<br>
+name: {<br>
+firstname: "Moshe",<br>
+lastname: "Cohen"<br>
+},<br>
+_id: "1111",<br>
+age: 34,<br>
+gender: "male",<br>
+address: "Herzel 38, Ramat Gan"<br>
+},<br>
+{<br>
+name: {<br>
+firstname: "Yuval",<br>
+lastname: "Banay"<br>
+},<br>
+_id: "2222",<br>
+age: 42,<br>
+gender: "male",<br>
+address: "Hanasi 42, Herzelya"<br>
+},<br><br>
+{<br>
+name: {<br>
+firstname: "Shira",<br>
+lastname: "Ofir"<br>
+},<br>
+_id: "3333",<br>
+age: 34,<br>
+gender: "female",<br>
+address: "Sokolov 15, Holon"<br>
+},<br><br>
+{<br>
+name: {<br>
+firstname: "Yuval",<br>
+lastname: "Dayan"<br>
+},<br>
+_id: "4444",<br>
+age: 18,<br>
+gender: "female",<br>
+address: "Herzel 38, Ashdod"<br>
+},<br><br>
+{<br>
+name: {<br>
+firstname: "Omer",<br>
+lastname: "Adam"<br>
+},<br>
+_id: "6666",<br>
+age: 24,<br>
+gender: "male",<br>
+address: "Mishmar Ashivha"<br>
+}<br>
+]<br><br>
+            </li>
+          </ul>
+        </article>
+
+
+
+         <article>
+          <h1>Get Profile by id</h1>
+          <ul>
+            <li>relativePath: /getProfileByID/:id</li>
+            <li>verb:POST</li>
+            <li>url:<a href='https://ex1-dcs.herokuapp.com/getProfileByID/4444' target='_blank'>https://ex1-dcs.herokuapp.com/getProfileByID/4444</a></li>
+            
+            <li>RESPOND:<br>
+         [
+{<br>
+name: {<br>
+firstname: "Yuval",<br>
+lastname: "Dayan"<br>
+},<br>
+_id: "4444",<br>
+age: 18,<br>
+gender: "female",<br>
+address: "Herzel 38, Ashdod"<br>
+}<br>
+]
+
+            </li>
+          </ul>
+        </article>
+
+             <article>
+          <h1>Get Profile by Gender and Age </h1>
+          <ul>
+            <li>relativePath: /getProfileByGenderAndAge/:gender/:age</li>
+            <li>verb: PUT</li>
+            <li>url: ex1-dcs.herokuapp.com/getProfileByGenderAndAge/male/24</li>
+            
+            <li>RESPOND:<br>
+                [
+{<br>
+name: {<br>
+firstname: "Omer",<br>
+lastname: "Adam"<br>
+},<br>
+_id: "6666",<br>
+age: 24,<br>
+gender: "male",<br>
+address: "Mishmar Ashivha"<br>
+}<br>
+]<br>
+
+        </li>
+          </ul>
+        </article>
+
+
+      </div>
+  </body>
+</html>
